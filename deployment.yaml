@@ -14,7 +14,7 @@ spec:
         spec:
             containers:
                 - name: test-app
-                  image: imrezaulkrm/testapp:01
+                  image: imrezaulkrm/test-app:22
                   ports:
                       - containerPort: 3000
 
